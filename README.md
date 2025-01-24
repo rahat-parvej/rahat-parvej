@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahat Parvej</h1>
+<p style="backgroung:#fff;color:#000;"><h1 align="center">Hi 👋, I'm Rahat Parvej</h1>
 <h3 align="center">A passionate Web Developer | PHP Developer | Researcher | Data Analyst | Passionate about Innovation & Technology Solutions | WordPress Plugin & Theme Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahat-parvej&label=Profile%20views&color=0e75b6&style=flat" alt="rahat-parvej" /> </p>
@@ -21,4 +21,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahat-parvej&show_icons=true&locale=en" alt="rahat-parvej" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahat-parvej&" alt="rahat-parvej" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahat-parvej&" alt="rahat-parvej" /></p> -->
+</p>
