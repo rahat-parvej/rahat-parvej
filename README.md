@@ -1,4 +1,4 @@
-<img style="height:auto;" alt="" src="https://avatars.githubusercontent.com/u/53718164?v=4" width="260" height="260"  align="center" class="avatar avatar-user width-full border color-bg-default">
+
 <h1 align="center">Hi 👋, I'm Rahat Parvej</h1>
 <h3 align="center">A passionate Web Developer | PHP Developer | Researcher | Data Analyst | Passionate about Innovation & Technology Solutions | WordPress Plugin & Theme Development</h3>
 
